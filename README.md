@@ -7,13 +7,13 @@ conda install mkl
 conda install -c anaconda ipykernel nbconvert
 python -m ipykernel install --user --name=DMaE
 ```
-NNaDL = Neural Networks and Deep Learning <br>
+DMaE = Data Mining and Exploration <br>
 **Switch to DMaE kernel in Jupyter Notebook**
 
 ## Contents
-#### 1. Principal Component Analysis. [View]()
+#### 1. Principal Component Analysis. [View](https://github.com/Smendowski/data-mining/blob/main/%5B1%5D%20Principal%20Component%20Analysis.ipynb)
 - analysis of PCA data transformation technique
 - dimensiality reduction using PCA
 - analysis of the variancy expalined by principal components
 - optimal amount of principal components based on scree plot
-- eigenfaces based of LFW model
+- eigenfaces based on LFW model
