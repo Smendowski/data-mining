@@ -17,3 +17,10 @@ DMaE = Data Mining and Exploration <br>
 - analysis of the variancy expalined by principal components
 - optimal amount of principal components based on scree plot
 - eigenfaces based on LFW model
+
+#### 2. Decision Trees and k-NN. [View](https://github.com/Smendowski/data-mining/blob/main/%5B2%5D%20Decision%20Trees%20and%20k-NN.ipynb)
+- Decision Trees
+- k-fold Cross Validation
+- Optimal tree depth based on different criterion
+- Decision Tree pruning
+- Classification using DT and k-NN
